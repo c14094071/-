@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.0\ChatClient.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.0\MVVM\View\MainWindow.g.cs
+C:\Users\user\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\user\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.0\ChatClient_MarkupCompile.cache
+C:\Users\user\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.0\ChatClient_MarkupCompile.lref
