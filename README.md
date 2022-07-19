@@ -20,6 +20,8 @@
 |Net  |make packets and read packets|
 |ChatClient.Server|make clients connect to port|
 |ChatServer.Client  |to trace users and users' messages|
-
+# Notice
+- only support versions above NET 5.0
+- Build projects before compile
 # Reference
 - https://www.youtube.com/watch?v=I-Xmp-mulz4
